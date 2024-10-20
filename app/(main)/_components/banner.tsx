@@ -46,7 +46,7 @@ export const Banner = ({
     return (
         <div className="w-full bg-rose-500 text-center text-sm p-2 text-white flex items-center gap-x-2 justify-center" dir="rtl">
             <p>
-            هذه الصفحة في سلة المهملات
+            هذه الصفحة في سلة المحذوفات
             </p>
             <Button
                 size="sm"
